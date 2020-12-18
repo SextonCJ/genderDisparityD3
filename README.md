@@ -14,7 +14,7 @@ The site can be cloned and served from a local web server, I use python:
 
 Alternatively the site is also hosted on my github jekyll site [Sexton Analytics](https://sextoncj.github.io)
 
-### Vizualization Tasks
+### Visualization Tasks
 
 - See historical trends & track improvements by region and country
 - See specific target areas, such as education and employment.
