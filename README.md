@@ -26,11 +26,12 @@ Alternatively the site is also hosted on my github jekyll site [Sexton Analytics
 
 ### Screenshots
 
-  #### map 
-  ![World Map](images/worldMap.png)
+  #### map
+  <img src="images/worldMap.png" alt="World Map" width="400"/>
 
   #### Line Charts
-  ![Line Charts](images/lineCharts.png)
+  <img src="images/lineCharts.png" alt="Line Charts" width="300"/>
+
 
   #### Parallel Coordinates
-  ![World Map](images/parallelCoordinates.png)
+  <img src="images/parallelCoordinates.png" alt="parallel Coordinates" width="300"/>
