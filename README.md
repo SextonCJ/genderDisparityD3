@@ -26,7 +26,7 @@ Alternatively the site is also hosted on my github jekyll site [Sexton Analytics
 
 ### Screenshots
 
-  #### map
+  #### Interactive Map
   <img src="images/worldMap.png" alt="World Map" width="600"/>
 
   #### Line Charts
