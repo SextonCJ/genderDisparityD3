@@ -12,7 +12,7 @@ The site can be cloned and served from a local web server, I use python:
 
 ```python -m http.server```
 
-Alternatively the site is also hosted on my github jekyll site [Sexton Analytics](https://sextoncj.github.io)
+Alternatively the site is also hosted on my github jekyll site [Adventures In Data](https://sextoncj.github.io)
 
 ### Visualization Tasks
 
